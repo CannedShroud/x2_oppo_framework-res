@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:paddingTop="4.0dip" android:paddingBottom="@dimen/M6" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:orientation="vertical" android:id="@id/resolver_oshare_Panel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content">
+        <LinearLayout android:gravity="center" android:id="@id/resolver_open_oshare_Panel" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="102.0dip">
+            <com.color.widget.ColorFadeBackImageView android:layout_gravity="center" android:id="@id/resolver_oshare_icon" android:background="@drawable/color_ic_o_share_off_normal" android:layout_width="39.0dip" android:layout_height="39.0dip" android:layout_marginStart="17.0dip" android:layout_marginEnd="10.0dip" />
+            <RelativeLayout android:id="@id/resolver_open_wifi_bluetooth" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/TF07" android:textColor="?C20" android:id="@id/resolver_open_wifi_bluetooth_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/color_oshare_open_oshare" android:textDirection="locale" android:layout_marginEnd="17.0dip" />
+                <TextView android:id="@id/resolver_open_wifi_bluetooth_summary" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginTop="1.0dip" android:layout_below="@id/resolver_open_wifi_bluetooth_title" android:layout_alignStart="@id/resolver_open_wifi_bluetooth_title" style="?android:textAppearanceSmall" />
+            </RelativeLayout>
+            <RelativeLayout android:id="@id/resolver_notice_open_oshare" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_weight="1.0">
+                <TextView android:textSize="@dimen/TF07" android:textColor="?C20" android:ellipsize="end" android:id="@id/resolver_open_oshare_title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/color_oshare_requset_oshare" android:textDirection="locale" />
+                <TextView android:textSize="@dimen/TF08" android:textColor="@color/color_oshare_help_text_color" android:id="@id/resolver_open_oshare_summary" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/color_oshare_help" android:singleLine="true" android:layout_below="@id/resolver_open_oshare_title" android:layout_alignStart="@id/resolver_open_oshare_title" />
+            </RelativeLayout>
+        </LinearLayout>
+        <RelativeLayout android:id="@id/resolver_oshareing_Panel" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="102.0dip">
+            <TextView android:id="@id/resolver_oshareing_text" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/color_oshare_click_pic" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+            <com.color.widget.ColorRecyclerView android:id="@id/resolver_oshareing_RecyclerView" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_below="@id/resolver_oshareing_text" />
+        </RelativeLayout>
+        <ImageView android:background="@drawable/color_divider_horizontal_without_padding" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <com.color.widget.ColorResolverDialogViewPager android:id="@id/resolver_dialog_pager" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="10.0dip" android:layout_below="@id/resolver_oshare_Panel" />
+    <com.color.widget.ColorDotView android:id="@id/resolver_dialog_dots" android:layout_width="wrap_content" android:layout_height="4.0dip" android:layout_marginTop="6.0dip" android:layout_alignBottom="@id/resolver_dialog_pager" />
+    <com.color.widget.ColorMenuView android:id="@id/resolver_dialog_menu_view" android:background="@drawable/resolve_dialog_menu_view_bg" android:visibility="gone" android:clickable="true" android:layout_width="fill_parent" android:layout_height="@dimen/resolve_dialog_menu_view_height" android:layout_below="@id/resolver_dialog_pager" />
+</RelativeLayout>

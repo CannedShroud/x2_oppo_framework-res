@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>نقي</item>
+        <item>ملعب</item>
+        <item>رقص مرتجل</item>
+        <item>الألعاب</item>
+        <item>الذبابة المضيئة</item>
+        <item>نجوم</item>
+        <item>الهدوء</item>
+        <item>ذاكرات</item>
+        <item>حنين</item>
+        <item>ليلي</item>
+        <item>على شاطئ البحيرة</item>
+        <item>نظرة</item>
+        <item>فوضوي</item>
+        <item>استرخاء</item>
+        <item>حكاية الطفولة</item>
+        <item>قصص المدرسة</item>
+        <item>التنقل</item>
+        <item>الجمع</item>
+        <item>الصيف</item>
+        <item>سفر</item>
+        <item>المشهد</item>
+        <item>حلم</item>
+        <item>النعيم</item>
+        <item>صمت من بعيد</item>
+        <item>realme Jingle</item>
+        <item>بسيط</item>
+        <item>الفوري</item>
+        <item>صادق</item>
+        <item>تموّج</item>
+        <item>قرع</item>
+        <item>‏الموسيقى</item>
+        <item>قيثارة</item>
+        <item>مرح</item>
+        <item>استقبال</item>
+        <item>تألّق</item>
+        <item>رَشَاش</item>
+        <item>براق</item>
+        <item>ابتكاري</item>
+        <item>حبيبات</item>
+        <item>نغمة الجواب</item>
+        <item>مرح</item>
+        <item>شروق الشمس</item>
+        <item>أملس</item>
+        <item>أمل</item>
+        <item>Sound Waves</item>
+        <item>صباح الخير</item>
+        <item>بهجة</item>
+        <item>أمنيات الصباح</item>
+        <item>قلب استثنائي</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>أحد</item>
+        <item>اثنين</item>
+        <item>ثلاثاء</item>
+        <item>أربعاء</item>
+        <item>خميس</item>
+        <item>جمعة</item>
+        <item>سبت</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>الأحد</item>
+        <item>الاثنين</item>
+        <item>الثلاثاء</item>
+        <item>الأربعاء</item>
+        <item>الخميس</item>
+        <item>الجمعة</item>
+        <item>السبت</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>اتصال، هل تسمح بذلك؟</item>
+        <item>قراءة سجلات المكالمات، هل تسمح بذلك؟</item>
+        <item>قراءة جهات الاتصال، هل تسمح بذلك؟</item>
+        <item>قراءة سجلات SMS، هل تسمح بذلك؟</item>
+        <item>إرسال رسالة SMS، هل تسمح بذلك؟</item>
+        <item>إرسال رسالة MMS، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف اتصال البيانات، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف Wi-Fi، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف بلوتوث، هل تسمح بذلك؟</item>
+        <item>استخدام GPS (يمكن للتطبيق أيضًا الحصول على معلومات موقعك بوسائل أخرى)، هل تسمح بذلك؟</item>
+        <item>استخدام الكاميرا، هل تسمح بذلك؟</item>
+        <item>التسجيل وتسجيل المكالمات، هل تسمح بذلك؟</item>
+        <item>تشغيل/إيقاف NFC، هل تسمح بذلك؟</item>
+        <item>كتابة سجلات المكالمات أو حذفها، هل تسمح بذلك؟</item>
+        <item>كتابة جهات الاتصال وحذفها، هل تسمح بذلك؟</item>
+        <item>كتابة سجلات SMS وحذفها، هل تسمح بذلك؟</item>
+        <item>كتابة سجلات MMS أو حذفها، هل تسمح بذلك؟</item>
+        <item>قراءة سجلات MMS، هل تسمح بذلك؟</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>ص</item>
+        <item>م</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>المتابعة إلى التنظيف</item>
+        <item>النقل إلى بطاقة SD</item>
+        <item>إلغاء</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>تنظيف الهاتف</item>
+        <item>إزالة تثبيت التطبيقات</item>
+        <item>إلغاء</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>يناير</item>
+        <item>فبراير</item>
+        <item>مارس</item>
+        <item>إبريل</item>
+        <item>مايو</item>
+        <item>يونيو</item>
+        <item>يوليو</item>
+        <item>أغسطس</item>
+        <item>سبتمبر</item>
+        <item>أكتوبر</item>
+        <item>نوفمبر</item>
+        <item>ديسمبر</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>تثبيت في المقدمة</item>
+        <item>عرض تفاصيل التطبيق</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>إلغاء التثبيت</item>
+        <item>عرض تفاصيل التطبيق</item>
+    </string-array>
+</resources>

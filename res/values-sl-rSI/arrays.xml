@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>Čisto</item>
+        <item>Igrišče</item>
+        <item>Improviziran ples</item>
+        <item>Igrače</item>
+        <item>Kresnica</item>
+        <item>Zvezde</item>
+        <item>Spokojnost</item>
+        <item>Spomini</item>
+        <item>Nostalgično</item>
+        <item>Noč</item>
+        <item>Obala jezera</item>
+        <item>Strmenje</item>
+        <item>Neurejeno</item>
+        <item>Sproščeno</item>
+        <item>Otroške anekdote</item>
+        <item>Zgodbe iz šolskih dni</item>
+        <item>Vožnja na delo</item>
+        <item>Srečanje</item>
+        <item>Poletje</item>
+        <item>Potovanje</item>
+        <item>Pokrajina</item>
+        <item>Sanje</item>
+        <item>Blaženost</item>
+        <item>Tišina od daleč</item>
+        <item>realme Jingle</item>
+        <item>Preprosto</item>
+        <item>Takoj</item>
+        <item>Prisrčno</item>
+        <item>Valovanje</item>
+        <item>Bobnanje</item>
+        <item>Glasba</item>
+        <item>Harfa</item>
+        <item>Veselje</item>
+        <item>Sprejem</item>
+        <item>Svetlikanje</item>
+        <item>Čofotanje</item>
+        <item>Svetlo</item>
+        <item>Iznajdljivost</item>
+        <item>Zrnatost</item>
+        <item>Delilni ton</item>
+        <item>Zabava</item>
+        <item>Sončni vzhod</item>
+        <item>Gladko</item>
+        <item>Upanje</item>
+        <item>Zvočni valovi</item>
+        <item>Dobro jutro</item>
+        <item>Radost</item>
+        <item>Jutranje želje</item>
+        <item>Izjemno srce</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>Nedelja</item>
+        <item>Ponedeljek</item>
+        <item>Torek</item>
+        <item>Sreda</item>
+        <item>Četrtek</item>
+        <item>Petek</item>
+        <item>Sobota</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Ned</item>
+        <item>Pon</item>
+        <item>Tor</item>
+        <item>Sre</item>
+        <item>Čet</item>
+        <item>Pet</item>
+        <item>Sob</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>pokliči, želite dovoliti?</item>
+        <item>preberi dnevnike klicev, želite dovoliti?</item>
+        <item>preberi stike, želite dovoliti?</item>
+        <item>prebrati dnevnike sporočil SMS, želite dovoliti?</item>
+        <item>pošlji sporočilo SMS, želite dovoliti?</item>
+        <item>pošlji sporočilo MMS, želite dovoliti?</item>
+        <item>izklopi/vklopi podatkovno povezavo, želite dovoliti?</item>
+        <item>vklopi/izklopi brezžično omrežje, želite dovoliti?</item>
+        <item>vklopi/izklopi tehnologijo Bluetooth, želite dovoliti?</item>
+        <item>uporabi GPS (aplikacija lahko pridobi tudi vaše podatke o lokaciji na druge načine), želite dovoliti?</item>
+        <item>uporabi kamero, želite dovoliti?</item>
+        <item>posnemi in posnemi klice, želite dovoliti?</item>
+        <item>vklopi/izklopi komunikacijo NFC, želite dovoliti?</item>
+        <item>zapiši ali izbriši dnevnike klicev, želite dovoliti?</item>
+        <item>zapiši in izbriši stike, želite dovoliti?</item>
+        <item>zapiši in izbriši dnevnike sporočil SMS, želite dovoliti?</item>
+        <item>zapiši ali izbriši dnevnike sporočil MMS, želite dovoliti?</item>
+        <item>preberi dnevnike sporočil MMS, želite dovoliti?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>dop.</item>
+        <item>pop.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Nadaljuj s čiščenjem</item>
+        <item>Prenesi na kartico SD</item>
+        <item>Prekliči</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Čiščenje telefona</item>
+        <item>Odstrani aplikacijo</item>
+        <item>Prekliči</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januar</item>
+        <item>Februar</item>
+        <item>Marec</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Junij</item>
+        <item>Julij</item>
+        <item>Avgust</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Pripni na vrh</item>
+        <item>Ogled podrobnosti aplikacije</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Odpni</item>
+        <item>Ogled podrobnosti aplikacije</item>
+    </string-array>
+</resources>

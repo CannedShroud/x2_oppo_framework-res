@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="color_progress_background">#ff464649</color>
+    <color name="color_seekbar_thumb_color">#ff464647</color>
+    <color name="color_search_view_bg_color">#ff28282a</color>
+</resources>

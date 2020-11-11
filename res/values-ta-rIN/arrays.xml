@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>பியூர்</item>
+        <item>ப்ளைகிரவுண்ட்</item>
+        <item>இம்ப்ருவுடு டான்ஸ்</item>
+        <item>டாய்ஸ்</item>
+        <item>ஃபயர்ஃப்ளை</item>
+        <item>ஸ்டார்ஸ்</item>
+        <item>செரெனிட்டி</item>
+        <item>மெமரிஸ்</item>
+        <item>நாஸ்டாலஜிக்</item>
+        <item>நைட்</item>
+        <item>லேக்சைடு</item>
+        <item>ஹேஸ்</item>
+        <item>மெஸ்ஸி</item>
+        <item>ரிலாக்ஸிடு</item>
+        <item>சைல்ட்குட் அனேக்டாட்ஸ்</item>
+        <item>ஸ்கூல் ஸ்டோரீஸ்</item>
+        <item>கம்முடிங்</item>
+        <item>கேதரிங்</item>
+        <item>சம்மர்</item>
+        <item>ட்ராவல்</item>
+        <item>சீனரி</item>
+        <item>ட்ரீம்</item>
+        <item>ப்ளிஸ்</item>
+        <item>சைலன்ஸ் ஃப்ரம் ஏஃபார்</item>
+        <item>realme Jingle</item>
+        <item>சிம்பிள்</item>
+        <item>இன்ஸ்டன்ட்</item>
+        <item>ஹார்ட்டி</item>
+        <item>ரிப்பில்</item>
+        <item>பெர்குஷன்</item>
+        <item>மியூசிக்</item>
+        <item>ஹார்ப்</item>
+        <item>ஜாய்</item>
+        <item>ரிசீவ்</item>
+        <item>கிளிட்டரிங்</item>
+        <item>ஸ்பிளாஷ்</item>
+        <item>பிரைட்</item>
+        <item>இன்கேனியஸ்</item>
+        <item>கிரானுலஸ்</item>
+        <item>ஓவர்டோன்</item>
+        <item>ஃபன்</item>
+        <item>சன்ரைஸ்</item>
+        <item>ஸ்மூத்</item>
+        <item>ஹோப்</item>
+        <item>சவுண்ட் வேவ்ஸ்</item>
+        <item>குட் மார்னிங்</item>
+        <item>டிலைட்</item>
+        <item>மார்னிங் விஷ்ஷஸ்</item>
+        <item>எக்செப்ஷனல் ஹார்ட்</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>ஞா</item>
+        <item>திங்</item>
+        <item>செவ்</item>
+        <item>புத</item>
+        <item>வியா</item>
+        <item>வெள்</item>
+        <item>சனி</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ஞா</item>
+        <item>திங்கள்</item>
+        <item>செவ்வாய்</item>
+        <item>புதன்</item>
+        <item>வியாழன்</item>
+        <item>வெள்ளி</item>
+        <item>சனி</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>அழை, அனுமதிக்கிறீர்களா?</item>
+        <item>அழைப்புப் பதிவுகளை படி, அனுமதிக்கிறீர்களா?</item>
+        <item>தொடர்புகளைப் படி, அனுமதிக்கிறீர்களா?</item>
+        <item>SMS பதிவுகளை படி, அனுமதிக்கிறீர்களா?</item>
+        <item>SMS அனுப்பு, அனுமதிக்கிறீர்களா?</item>
+        <item>MMS அனுப்பு, அனுமதிக்கிறீர்களா?</item>
+        <item>தரவு இணைப்பை ஆன்/ஆஃப் செய், அனுமதிக்கிறீர்களா?</item>
+        <item>Wi-Fi ஆன்/ஆஃப் செய், அனுமதிக்கிறீர்களா?</item>
+        <item>புளூடூத் ஆன்/ஆஃப் செய், அனுமதிக்கிறீர்களா?</item>
+        <item>GPS (செயலி, வேறு வழிகளிலும் உங்கள் இருப்பிடத் தகவலைப் பெறலாம்) பயன்படுத்து, அனுமதிக்கிறீர்களா?</item>
+        <item>கேமரா பயன்படுத்து, அனுமதிக்கிறீர்களா?</item>
+        <item>பதிவுசெய் மற்றும் அழைப்புகளை பதிவுசெய், அனுமதிக்கிறீர்களா?</item>
+        <item>NFC ஆன்/ஆஃப் செய், அனுமதிக்கிறீர்களா?</item>
+        <item>அழைப்புப் பதிவுகளை எழுது அல்லது நீக்கு, அனுமதிக்கிறீர்களா?</item>
+        <item>தொடர்புகளை எழுது மற்றும் நீக்கு, அனுமதிக்கிறீர்களா?</item>
+        <item>SMS பதிவுகளை எழுது மற்றும் நீக்கு, அனுமதிக்கிறீர்களா?</item>
+        <item>MMS பதிவுகளை எழுது அல்லது நீக்கு, அனுமதிக்கிறீர்களா?</item>
+        <item>MMS பதிவுகளை படி, அனுமதிக்கிறீர்களா?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>சுத்தப்படுத்துவதை மேற்கொள்</item>
+        <item>SD கார்டுக்கு இடமாற்று</item>
+        <item>ரத்துசெய்</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>மொபைல் கிளீன்அப்</item>
+        <item>செயலிகளை நிறுவல்நீக்கு</item>
+        <item>ரத்து</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ஜனவரி</item>
+        <item>பிப்ரவரி</item>
+        <item>மார்ச்</item>
+        <item>ஏப்ரல்</item>
+        <item>மே</item>
+        <item>ஜூன்</item>
+        <item>ஜூலை</item>
+        <item>ஆகஸ்ட்</item>
+        <item>செப்டம்பர்</item>
+        <item>அக்டோபர்</item>
+        <item>நவம்பர்</item>
+        <item>டிசம்பர்</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>உச்சியில் பின்செய்</item>
+        <item>செயலி விவரங்களை காண்க</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>நீக்கு</item>
+        <item>செயலி விவரங்களை காண்க</item>
+    </string-array>
+</resources>

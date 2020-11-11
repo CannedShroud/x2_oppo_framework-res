@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android" xmlns:oppo="http://schemas.android.com/apk/res/oppo">
+    <item android:drawable="@drawable/oppo_btn_check_on_disabled" oppo:oppo_state_partSelect="true" oppo:oppo_state_allSelect="false" />
+    <item android:drawable="@drawable/oppo_btn_check_on_normal" oppo:oppo_state_partSelect="false" oppo:oppo_state_allSelect="true" />
+    <item android:drawable="@drawable/oppo_btn_check_off_normal" oppo:oppo_state_partSelect="false" oppo:oppo_state_allSelect="false" />
+</selector>

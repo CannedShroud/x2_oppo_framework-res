@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>Puhas</item>
+        <item>Mänguväljak</item>
+        <item>Improviseeritud tants</item>
+        <item>Mänguasjad</item>
+        <item>Jaanimardikas</item>
+        <item>Tähed</item>
+        <item>Rahu</item>
+        <item>Mälestused</item>
+        <item>Nostalgiline</item>
+        <item>Öö</item>
+        <item>Järve kallas</item>
+        <item>Pilk</item>
+        <item>Sassis</item>
+        <item>Pingevaba</item>
+        <item>Lapsepõlve naljad</item>
+        <item>Koolilood</item>
+        <item>Pendelränne</item>
+        <item>Koosviibimine</item>
+        <item>Suvi</item>
+        <item>Reisimine</item>
+        <item>Maastik</item>
+        <item>Unistus</item>
+        <item>Õndsus</item>
+        <item>Kauge vaikus</item>
+        <item>realme Jingle</item>
+        <item>Lihtne</item>
+        <item>Vahetu</item>
+        <item>Südamlik</item>
+        <item>Virvendus</item>
+        <item>Löökpillid</item>
+        <item>Muusika</item>
+        <item>Harf</item>
+        <item>Rõõm</item>
+        <item>Võta vastu</item>
+        <item>Sädelev</item>
+        <item>Laik</item>
+        <item>Ere</item>
+        <item>Geniaalne</item>
+        <item>Graanulid</item>
+        <item>Ülemtoon</item>
+        <item>Lõbus</item>
+        <item>Päikesetõus</item>
+        <item>Sujuv</item>
+        <item>Lootus</item>
+        <item>Helilained</item>
+        <item>Tere hommikust</item>
+        <item>Maius</item>
+        <item>Hommikusoovid</item>
+        <item>Imetlusväärne hing</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>Pühapäev</item>
+        <item>Esmaspäev</item>
+        <item>Teisipäev</item>
+        <item>Kolmapäev</item>
+        <item>Neljapäev</item>
+        <item>Reede</item>
+        <item>Laupäev</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>P</item>
+        <item>E</item>
+        <item>T</item>
+        <item>K</item>
+        <item>N</item>
+        <item>R</item>
+        <item>L</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>helistamine, kas lubate?</item>
+        <item>kõnelogide lugemine, kas lubate?</item>
+        <item>kontaktide lugemine, kas lubate?</item>
+        <item>SMS-logide lugemine, kas lubate?</item>
+        <item>SMS-i saatmine, kas lubate?</item>
+        <item>MMS-i saatmine, kas lubate?</item>
+        <item>andmesideühenduse sisse-/väljalülitamine, kas lubate?</item>
+        <item>Wi-Fi sisse-/väljalülitamine, kas lubate?</item>
+        <item>Bluetoothi sisse-/väljalülitamine, kas lubate?</item>
+        <item>GPS-i kasutamine (rakendus saab teie asukohateavet ka muul viisil hankida), kas lubate?</item>
+        <item>kaamera kasutamine, kas lubate?</item>
+        <item>salvestamine ja kõnede salvestamine, kas lubate?</item>
+        <item>NFC sisse-/väljalülitamine, kas lubate?</item>
+        <item>kõnelogide kirjutamine või kustutamine, kas lubate?</item>
+        <item>kontaktide kirjutamine või kustutamine, kas lubate?</item>
+        <item>SMS-logide kirjutamine või kustutamine, kas lubate?</item>
+        <item>MMS-logide kirjutamine või kustutamine, kas lubate?</item>
+        <item>MMS-logide lugemine, kas lubate?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>a. m.</item>
+        <item>p. m.</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>jätka puhastamisega</item>
+        <item>edasta SD-kaardile</item>
+        <item>tühista</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefoni puhastus</item>
+        <item>Desinstalli rakendus</item>
+        <item>Tühista</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Jaanuar</item>
+        <item>Veebruar</item>
+        <item>Märts</item>
+        <item>Aprill</item>
+        <item>Mai</item>
+        <item>Juuni</item>
+        <item>Juuli</item>
+        <item>August</item>
+        <item>September</item>
+        <item>Oktoober</item>
+        <item>November</item>
+        <item>Detsember</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Kinnita algusesse</item>
+        <item>Kuva rakenduse üksikasjad</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Eemalda</item>
+        <item>Kuva rakenduse üksikasjad</item>
+    </string-array>
+</resources>

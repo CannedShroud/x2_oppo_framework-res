@@ -1,0 +1,24 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: system_system_framework_oppo-framework-res.apk
+compressionType: false
+doNotCompress:
+- resources.arsc
+- png
+isFrameworkApk: true
+packageInfo:
+  forcedPackageId: '12'
+  renameManifestPackage: null
+sdkInfo:
+  minSdkVersion: '28'
+  targetSdkVersion: '28'
+sharedLibrary: false
+sparseResources: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.4.1
+versionInfo:
+  versionCode: '60'
+  versionName: '6.0'

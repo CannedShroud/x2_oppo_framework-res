@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Deuntjie</item>
+        <item>Suiwer</item>
+        <item>Speelgrond</item>
+        <item>Geïmproviseerde dans</item>
+        <item>Speelgoed</item>
+        <item>Vuurvliegie</item>
+        <item>Sterre</item>
+        <item>Sereniteit</item>
+        <item>Herinneringe</item>
+        <item>Nostalgies</item>
+        <item>Nag</item>
+        <item>Meeroewer</item>
+        <item>Staar</item>
+        <item>Morsig</item>
+        <item>Ontspanne</item>
+        <item>Kindertyd-staaltjie</item>
+        <item>Skoolstories</item>
+        <item>Pendel</item>
+        <item>Byeenkoms</item>
+        <item>Somer</item>
+        <item>Reis</item>
+        <item>Natuurskoon</item>
+        <item>Droom</item>
+        <item>Saligheid</item>
+        <item>Stilte in die verte</item>
+        <item>realme Klingel</item>
+        <item>Eenvoudig</item>
+        <item>Oomblik</item>
+        <item>Opreg</item>
+        <item>Rimpeling</item>
+        <item>Perkussie</item>
+        <item>Musiek</item>
+        <item>Harp</item>
+        <item>Vreugde</item>
+        <item>Ontvang</item>
+        <item>Skitterend</item>
+        <item>Plas</item>
+        <item>Helder</item>
+        <item>Vindingryk</item>
+        <item>Korrels</item>
+        <item>Botoon</item>
+        <item>Pret</item>
+        <item>Sonsopkoms</item>
+        <item>Glad</item>
+        <item>Hoop</item>
+        <item>Klankgolwe</item>
+        <item>Goeie môre</item>
+        <item>Behae</item>
+        <item>Oggendwense</item>
+        <item>Uitsonderlike hart</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>So.</item>
+        <item>Ma.</item>
+        <item>Di.</item>
+        <item>Wo.</item>
+        <item>Do.</item>
+        <item>Vr.</item>
+        <item>Sa.</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>So.</item>
+        <item>Maandag</item>
+        <item>Dinsdag</item>
+        <item>Woensdag</item>
+        <item>Donderdag</item>
+        <item>Vrydag</item>
+        <item>Sa.</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>oproep, laat jy dit toe?</item>
+        <item>lees oproeplogs, laat jy dit toe?</item>
+        <item>lees kontakte, laat jy dit toe?</item>
+        <item>lees SMS-logs, laat jy dit toe?</item>
+        <item>stuur SMS, laat jy dit toe?</item>
+        <item>stuur MMS, laat jy dit toe?</item>
+        <item>skakel dataverbinding aan/af, laat jy dit toe?</item>
+        <item>skakel Wi-Fi aan/af, laat jy dit toe?</item>
+        <item>skakel bluetooth aan/af, laat jy dit toe?</item>
+        <item>gebruik GPS (die toepassing kan ook jou ligginginligting op ander maniere verkry), laat jy dit toe?</item>
+        <item>gebruik kamera, laat jy dit toe?</item>
+        <item>neem op en neem oproepe op, laat jy dit toe?</item>
+        <item>skakel NFC aan/af, laat jy dit toe?</item>
+        <item>skryf of skrap oproeplogs, laat jy dit toe?</item>
+        <item>skryf en skrap kontakte, laat jy dit toe?</item>
+        <item>skryf en skrap SMS-logs, laat jy dit toe?</item>
+        <item>skryf of skrap MMS-logs, laat jy dit toe?</item>
+        <item>lees MMS-logs, laat jy dit toe?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>VM</item>
+        <item>NM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Gaan na skoonmaak</item>
+        <item>Dra na SD-geheuekaart oor</item>
+        <item>Kanselleer</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Foonskoonmaak</item>
+        <item>Deïnstalleer Toepassings</item>
+        <item>Kanselleer</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januarie</item>
+        <item>Februarie</item>
+        <item>Maart</item>
+        <item>April</item>
+        <item>Mei</item>
+        <item>Junie</item>
+        <item>Julie</item>
+        <item>Augustus</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>Desember</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Speld bo vas</item>
+        <item>Sien Toepassingdetails</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Ontspeld</item>
+        <item>Sien Toepassingdetails</item>
+    </string-array>
+</resources>

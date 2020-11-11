@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>Íon</item>
+        <item>Áit súgartha</item>
+        <item>Rince seiftithe</item>
+        <item>Bréagáin</item>
+        <item>Lampróg</item>
+        <item>Réaltaí</item>
+        <item>Suaimhneas</item>
+        <item>Cuimhní</item>
+        <item>Cumhach</item>
+        <item>Oíche</item>
+        <item>Cois locha</item>
+        <item>Féachaint</item>
+        <item>Míshlachtmhar</item>
+        <item>Suaimhneach</item>
+        <item>Scéilíní leanbhaoise</item>
+        <item>Scéalta scoile</item>
+        <item>Comaitéireacht</item>
+        <item>Teacht le chéile</item>
+        <item>Samhradh</item>
+        <item>Taisteal</item>
+        <item>Radharcra</item>
+        <item>Brionglóid</item>
+        <item>Aoibhneas</item>
+        <item>Tost i gCéin</item>
+        <item>realme Jingle</item>
+        <item>Simplí</item>
+        <item>Meandar</item>
+        <item>Croíúil</item>
+        <item>Tonnán</item>
+        <item>Cnagadh</item>
+        <item>Ceol</item>
+        <item>Cláirseach</item>
+        <item>Lúcháir</item>
+        <item>Faigh</item>
+        <item>Ag glioscarnach</item>
+        <item>Steall</item>
+        <item>Geal</item>
+        <item>Cliste</item>
+        <item>Gráinnín</item>
+        <item>Forthon</item>
+        <item>Spraoi</item>
+        <item>Éirí na Gréine</item>
+        <item>Réidh</item>
+        <item>Dóchas</item>
+        <item>Fuaim na dtonnta</item>
+        <item>Maidin Mhaith</item>
+        <item>Gliondar</item>
+        <item>Mianta Maidine</item>
+        <item>Croí iontach</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>Dé Domhnaigh</item>
+        <item>Dé Luain</item>
+        <item>Dé Máirt</item>
+        <item>Dé Céadaoin</item>
+        <item>Déardaoin</item>
+        <item>Dé hAoine</item>
+        <item>Dé Sathairn</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Dom</item>
+        <item>Lu</item>
+        <item>Má</item>
+        <item>Cé</item>
+        <item>Dé</item>
+        <item>Ao</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>glao, an gceadaíonn tú?</item>
+        <item>léigh logaí glao, an gceadaíonn tú?</item>
+        <item>léigh teagmhálaithe, an gceadaíonn tú?</item>
+        <item>léigh logaí SMS, an gceadaíonn tú?</item>
+        <item>seol SMS, an gceadaíonn tú?</item>
+        <item>seol MMS, an gceadaíonn tú?</item>
+        <item>cas nasc sonraí air/as, an gceadaíonn tú?</item>
+        <item>cas Wi-Fi air/as, an gceadaíonn tú?</item>
+        <item>cas bluetooth air/as, an gceadaíonn tú?</item>
+        <item>úsáid GPS (is féidir leis an aip d’fhaisnéis suímh a fháil trí mhodhanna eile), an gceadaíonn tú?</item>
+        <item>úsáid ceamara, an gceadaíonn tú?</item>
+        <item>taifead agus taifead glaonna, an gceadaíonn tú?</item>
+        <item>cas NFC air/as, an gceadaíonn tú?</item>
+        <item>scríobh nó scrios logaí glao, an gceadaíonn tú?</item>
+        <item>scríobh nó scrios teagmhálaithe, an gceadaíonn tú?</item>
+        <item>scríobh nó scrios logaí SMS, an gceadaíonn tú?</item>
+        <item>scríobh nó scrios logaí MMS, an gceadaíonn tú?</item>
+        <item>scríobh logaí MMS, an gceadaíonn tú?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Lean ar aghaidh chuig Glanadh</item>
+        <item>Aistriú chuig Cárta SD</item>
+        <item>Cealaigh</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Guthán a Ghlanadh Suas</item>
+        <item>Díshuiteáil aip</item>
+        <item>Cealaigh</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Eanáir</item>
+        <item>Feabhra</item>
+        <item>Márta</item>
+        <item>Aibreán</item>
+        <item>Bealtaine</item>
+        <item>Meitheamh</item>
+        <item>Iúil</item>
+        <item>Lúnasa</item>
+        <item>Meán Fómhair</item>
+        <item>Deireadh Fómhair</item>
+        <item>Samhain</item>
+        <item>Nollaig</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Pionnáil ar barr</item>
+        <item>Féach ar Shonraí Aipe</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Díphionnáil</item>
+        <item>Féach ar Shonraí Aipe</item>
+    </string-array>
+</resources>

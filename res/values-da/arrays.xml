@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>Ren</item>
+        <item>Legeplads</item>
+        <item>Improviseret dans</item>
+        <item>Legetøj</item>
+        <item>Ildflue</item>
+        <item>Stjerner</item>
+        <item>Sjælefred</item>
+        <item>Minder</item>
+        <item>Nostalgisk</item>
+        <item>Nat</item>
+        <item>Søside</item>
+        <item>Blik</item>
+        <item>Rodet</item>
+        <item>Afslappet</item>
+        <item>Barndomsanekdoter</item>
+        <item>Skolehistorier</item>
+        <item>Pendling</item>
+        <item>Forsamling</item>
+        <item>Sommer</item>
+        <item>Rejse</item>
+        <item>Landskab</item>
+        <item>Drøm</item>
+        <item>Fryd</item>
+        <item>Stilhed fra dybet</item>
+        <item>realme Jingle</item>
+        <item>Simpel</item>
+        <item>Øjeblikkelig</item>
+        <item>Hjertelig</item>
+        <item>Bølge</item>
+        <item>Slagtøj</item>
+        <item>Musik</item>
+        <item>Harpe</item>
+        <item>Glæde</item>
+        <item>Modtage</item>
+        <item>Funklende</item>
+        <item>Plask</item>
+        <item>Lys</item>
+        <item>Genial</item>
+        <item>Granulater</item>
+        <item>Overtone</item>
+        <item>Sjov</item>
+        <item>Solopgang</item>
+        <item>Glat</item>
+        <item>Håb</item>
+        <item>Lydbølger</item>
+        <item>Godmorgen</item>
+        <item>Fornøjelse</item>
+        <item>Morgenønsker</item>
+        <item>Enestående hjerte</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>Søn</item>
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Søn</item>
+        <item>Man</item>
+        <item>Tir</item>
+        <item>Ons</item>
+        <item>Tor</item>
+        <item>Fre</item>
+        <item>Lør</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>opkald</item>
+        <item>læsning af opkaldsliste</item>
+        <item>læsning af kontaktoplysninger</item>
+        <item>læsning af SMS</item>
+        <item>afsendelse af SMS</item>
+        <item>afsendelse af MMS</item>
+        <item>aktivering og deaktivering af mobildata</item>
+        <item>aktivering og deaktivering af Wi-Fi</item>
+        <item>aktivering og deaktivering af Bluetooth</item>
+        <item>brug af GPS (appen kan også hente din placering på andre måder)</item>
+        <item>brug af kameraet</item>
+        <item>optagelse af lyd og opkald?</item>
+        <item>aktivering og deaktivering af NFC</item>
+        <item>redigering af opkaldslisten</item>
+        <item>redigering af kontakter</item>
+        <item>redigering af SMS-beskeder</item>
+        <item>redigering af MMS-beskeder</item>
+        <item>læsning af MMS-beskeder</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Fortsæt til oprydning</item>
+        <item>Overførsel til SD-kort</item>
+        <item>Annuller</item>
+    </string-array>
+</resources>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>Safi</item>
+        <item>Uwanja wa Kuchezea</item>
+        <item>Densi Iliyovoreshwa</item>
+        <item>Vitu vya Kucheza</item>
+        <item>Kimulimuli</item>
+        <item>Nyota</item>
+        <item>Utulivu</item>
+        <item>Kumbukumbu</item>
+        <item>Kukosa kitu</item>
+        <item>Usiku</item>
+        <item>Kando ya ziwa</item>
+        <item>Kaza Macho</item>
+        <item>Uchafu</item>
+        <item>Tulivu</item>
+        <item>Hekaya za utotoni</item>
+        <item>Hadithi za Shuleni</item>
+        <item>Kusafiri</item>
+        <item>Kukusanyika</item>
+        <item>Majira ya joto</item>
+        <item>Usafiri</item>
+        <item>Mandhari</item>
+        <item>Ndoto</item>
+        <item>Upeo wa furaha</item>
+        <item>Kimya Kutoka Mbali</item>
+        <item>realme Jingle</item>
+        <item>Rahisi</item>
+        <item>Haraka</item>
+        <item>Kunjufu</item>
+        <item>Kiwimbi</item>
+        <item>Percussion</item>
+        <item>Muziki</item>
+        <item>Harp</item>
+        <item>Joy</item>
+        <item>Pokea</item>
+        <item>Memetuko</item>
+        <item>Rusha maji</item>
+        <item>Bright</item>
+        <item>Vumbuzi</item>
+        <item>Vijichembe</item>
+        <item>Kidokezo</item>
+        <item>Burudani</item>
+        <item>Machweo</item>
+        <item>Laini</item>
+        <item>Matumaini</item>
+        <item>Mawimbi ya Sauti</item>
+        <item>Habari za Asubuhi</item>
+        <item>Furaha</item>
+        <item>Matakwa ya Asubuhi</item>
+        <item>Moyo wa Kipekee</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>Jumapili</item>
+        <item>Jumatatu</item>
+        <item>Jumanne</item>
+        <item>Jumatano</item>
+        <item>Alhamisi</item>
+        <item>Ijumaa</item>
+        <item>Jumamosi</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Jumapili</item>
+        <item>Jumatatu</item>
+        <item>Jumanne</item>
+        <item>Jumatano</item>
+        <item>Alhamisi</item>
+        <item>Ijumaa</item>
+        <item>Jumamosi</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>piga simu, unakubali?</item>
+        <item>soma kumbukumbu za simu, unakubali?</item>
+        <item>soma waasiliani, unakubali?</item>
+        <item>soma kumbukumbu za ujumbe mfupi, unakubali?</item>
+        <item>tuma ujumbe mfupi, unakubali?</item>
+        <item>tuma ujumbe wa media, unakubali?</item>
+        <item>washa/zima muunganisho wa data, unakubali?</item>
+        <item>washa/zima Wi-Fi, unakubali?</item>
+        <item>washa/zima bluetooth, unakubali?</item>
+        <item>tumia GPS (progamu pia inaweza kupata taarifa yako ya eneo kwa namna nyingine), unakubali?</item>
+        <item>tumia kamera, unakubali?</item>
+        <item>rekodi na rekodi simu, unakubali?</item>
+        <item>washa/zima NFC, unakubali?</item>
+        <item>andika au futa kumbukumbu za simu, unakubali?</item>
+        <item>andika na ufute waasiliani, unakubali?</item>
+        <item>andika na futa kumbukumbu za ujumbe mfupi, unakubali?</item>
+        <item>andika au futa kumbukumbu za ujumbe wa media, unakubali?</item>
+        <item>soma kumbukumbu za ujumbe wa media, unakubali?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Endelea Ufute</item>
+        <item>Hamisha kwenye Kadi ya SD</item>
+        <item>Ghairi</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Ufutaji wa Simu</item>
+        <item>Sakinusha Programu</item>
+        <item>Ghairi</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Machi</item>
+        <item>Aprili</item>
+        <item>Mei</item>
+        <item>Juni</item>
+        <item>Julai</item>
+        <item>Agosti</item>
+        <item>Septemba</item>
+        <item>Oktoba</item>
+        <item>Novemba</item>
+        <item>Desemba</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Bana Juu</item>
+        <item>Tazama Maelezo ya Programu</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Bandua</item>
+        <item>Tazama Maelezo ya Programu</item>
+    </string-array>
+</resources>

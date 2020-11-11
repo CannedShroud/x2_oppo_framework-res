@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>ശുദ്ധം</item>
+        <item>കളിക്കളം</item>
+        <item>മെച്ചപ്പെടുത്തിയ നൃത്തം</item>
+        <item>കളിപ്പാട്ടങ്ങൾ</item>
+        <item>മിന്നാമിനുങ്ങ്‌</item>
+        <item>നക്ഷത്രങ്ങൾ</item>
+        <item>ശാന്തത</item>
+        <item>ഓർമ്മകൾ</item>
+        <item>ഗൃഹാതുരം</item>
+        <item>രാത്രി</item>
+        <item>തടാകതീരം</item>
+        <item>ഉറ്റുനോട്ടം</item>
+        <item>കുഴപ്പം</item>
+        <item>വിശ്രാന്തി</item>
+        <item>ബാല്യകാല സംഭവങ്ങൾ</item>
+        <item>സ്കൂൾ കഥകൾ</item>
+        <item>പതിവുയാത്ര</item>
+        <item>ഒത്തുകൂടൽ</item>
+        <item>വേനൽക്കാലം</item>
+        <item>യാത്ര</item>
+        <item>പ്രകൃതിദൃശ്യം</item>
+        <item>സ്വപ്നം</item>
+        <item>അനുഗ്രഹം</item>
+        <item>അകലെ നിന്നുള്ള നിശബ്‌ദത</item>
+        <item>realme Jingle</item>
+        <item>ലളിതം</item>
+        <item>തൽക്ഷണം</item>
+        <item>ഊഷ്‌മളം</item>
+        <item>ഓളം</item>
+        <item>തട്ട്</item>
+        <item>സംഗീതം</item>
+        <item>വീണ</item>
+        <item>ആനന്ദം</item>
+        <item>സ്വീകരിക്കുക</item>
+        <item>മിന്നുന്ന</item>
+        <item>സ്‌പ്ലാഷ്</item>
+        <item>പ്രസന്നം</item>
+        <item>നിപുണം</item>
+        <item>തരികൾ</item>
+        <item>അതിസ്വരം</item>
+        <item>നേരമ്പോക്ക്</item>
+        <item>സൺറൈസ്</item>
+        <item>സ്‌മൂത്ത്</item>
+        <item>പ്രതീക്ഷ</item>
+        <item>ശബ്‌ദ തരംഗങ്ങൾ</item>
+        <item>ഗുഡ് മോർണിംഗ്</item>
+        <item>പരമാനന്ദം</item>
+        <item>പ്രഭാത ആശംസകൾ</item>
+        <item>വിശിഷ്‌ട ഹൃദയം</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>ഞായർ</item>
+        <item>തിങ്കൾ</item>
+        <item>ചൊവ്വ</item>
+        <item>ബുധൻ</item>
+        <item>വ്യാഴം</item>
+        <item>വെള്ളി</item>
+        <item>ശനി</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>ഞായർ</item>
+        <item>തിങ്കൾ</item>
+        <item>ചൊവ്വ</item>
+        <item>ബുധൻ</item>
+        <item>വ്യാഴം</item>
+        <item>വെള്ളി</item>
+        <item>ശനി</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>കോൾ ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>കോൾ ലോഗുകൾ വായിക്കുന്നത് നിങ്ങൾക്ക് അനുവദിക്കണമോ?</item>
+        <item>സമ്പർക്കങ്ങളെ വായിക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>SMS ലോഗുകളെ വായിക്കുന്നതിനെ നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>SMS അയയ്ക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>MMS അയയ്ക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>ഡാറ്റ കണക്ഷൻ ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>Wi-Fi ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>bluetooth ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>GPS ഉപയോഗിക്കുന്നത് (നിങ്ങളുടെ ലോക്കേഷൻ വിവരം ആപിന് മറ്റ് മാർഗ്ഗത്തിലൂടെയും ലഭിക്കാം) നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>ക്യാമറ ഉപയോഗിക്കാൻ നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>റെക്കോർഡ് ചെയ്യുന്നതും കോളുകൾ റെക്കോർഡ് ചെയ്യുന്നതും നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>NFC ഓൺ/ഓഫ് ചെയ്യുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>കോൾ ലോഗുകൾ റൈറ്റ് ചെയ്യുന്നത് അല്ലെങ്കിൽ ഇല്ലാതാക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>സമ്പർക്കങ്ങളെ റൈറ്റ് ചെയ്യുന്നതും ഇല്ലാതാക്കുന്നതും നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>SMS ലോഗുകൾ റൈറ്റ് ചെയ്യുന്നതും ഇല്ലാതാക്കുന്നതും നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>MMS ലോഗുകൾ റൈറ്റ് ചെയ്യുന്നത് അല്ലെങ്കിൽ ഇല്ലാതാക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+        <item>MMS ലോഗുകൾ വായിക്കുന്നത് നിങ്ങൾ അനുവദിക്കുമോ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>ക്ലീനപ്പ് ചെയ്യുക</item>
+        <item>SD കാർഡിലേക്ക് മാറ്റുക</item>
+        <item>റദ്ദാക്കുക</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>ഫോൺ ക്ലീൻഅപ്പ്</item>
+        <item>ആപ് അണ്‍ ഇൻസ്റ്റാൾ ചെയ്യുക</item>
+        <item>റദ്ദാക്കുക</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>ജനുവരി</item>
+        <item>ഫെബ്രുവരി</item>
+        <item>മാർച്ച്</item>
+        <item>ഏപ്രിൽ</item>
+        <item>മെയ്</item>
+        <item>ജൂൺ</item>
+        <item>ജൂലൈ</item>
+        <item>ഓഗസ്റ്റ്</item>
+        <item>സെപ്റ്റംബർ</item>
+        <item>ഒക്ടോബർ</item>
+        <item>നവംബർ</item>
+        <item>ഡിസംബർ</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>മുകളിൽ പിൻ ചെയ്യുക</item>
+        <item>ആപ് വിശദാംശങ്ങൾ കാണുക</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>അൺപിൻ ചെയ്യുക</item>
+        <item>ആപ് വിശദാംശങ്ങൾ കാണുക</item>
+    </string-array>
+</resources>

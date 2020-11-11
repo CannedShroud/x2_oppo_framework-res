@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme tune</item>
+        <item>Pure</item>
+        <item>Playground</item>
+        <item>Improvised dance</item>
+        <item>Toys</item>
+        <item>Firefly</item>
+        <item>Stars</item>
+        <item>Serenity</item>
+        <item>Memories</item>
+        <item>Nostalgic</item>
+        <item>Night</item>
+        <item>Lakeside</item>
+        <item>Gaze</item>
+        <item>Messy</item>
+        <item>Relaxed</item>
+        <item>Childhood anecdotes</item>
+        <item>School stories</item>
+        <item>Commuting</item>
+        <item>Gathering</item>
+        <item>Summer</item>
+        <item>Travel</item>
+        <item>Scenery</item>
+        <item>Dream</item>
+        <item>Bliss</item>
+        <item>Silence from afar</item>
+        <item>realme jingle</item>
+        <item>Simple</item>
+        <item>Instant</item>
+        <item>Hearty</item>
+        <item>Ripple</item>
+        <item>Percussion</item>
+        <item>Music</item>
+        <item>Harp</item>
+        <item>Joy</item>
+        <item>Receive</item>
+        <item>Glittering</item>
+        <item>Splash</item>
+        <item>Bright</item>
+        <item>Ingenious</item>
+        <item>Granules</item>
+        <item>Overtone</item>
+        <item>Fun</item>
+        <item>Sunrise</item>
+        <item>Smooth</item>
+        <item>Hope</item>
+        <item>Sound waves</item>
+        <item>Good morning</item>
+        <item>Delight</item>
+        <item>Morning wishes</item>
+        <item>Exceptional heart</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Sun</item>
+        <item>Mon</item>
+        <item>Tues</item>
+        <item>Wed</item>
+        <item>Thur</item>
+        <item>Fri</item>
+        <item>Sat</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>call, allow?</item>
+        <item>read call logs, allow?</item>
+        <item>read contacts, allow?</item>
+        <item>read SMS logs, allow?</item>
+        <item>send SMS, allow?</item>
+        <item>send MMS, allow?</item>
+        <item>turn data connection on/off, allow?</item>
+        <item>turn Wi-Fi on/off, allow?</item>
+        <item>turn bluetooth on/off, allow?</item>
+        <item>use GPS (the app can also obtain your location information by other means), allow?</item>
+        <item>use camera, allow?</item>
+        <item>record and record calls, allow?</item>
+        <item>turn NFC on/off, allow?</item>
+        <item>write or delete call logs, allow?</item>
+        <item>write and delete contacts, allow?</item>
+        <item>write and delete SMS logs, allow?</item>
+        <item>write or delete MMS logs, allow?</item>
+        <item>read MMS logs, allow?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Proceed to Cleanup</item>
+        <item>Transfer to SD Card</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Phone Cleanup</item>
+        <item>Uninstall Apps</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Pin on Top</item>
+        <item>View App Details</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Unpin</item>
+        <item>View App Details</item>
+    </string-array>
+</resources>

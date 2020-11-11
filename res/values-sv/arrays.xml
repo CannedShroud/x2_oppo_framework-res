@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>Äkta</item>
+        <item>Lekplats</item>
+        <item>Improviserad dans</item>
+        <item>Leksaker</item>
+        <item>Eldfluga</item>
+        <item>Stjärnor</item>
+        <item>Stillhet</item>
+        <item>Minnen</item>
+        <item>Nostalgi</item>
+        <item>Natt</item>
+        <item>Sjösida</item>
+        <item>Stirrande blick</item>
+        <item>Rörigt</item>
+        <item>Avslappnat</item>
+        <item>Barndomsanekdoter</item>
+        <item>Skolhistorier</item>
+        <item>Pendling</item>
+        <item>Samling</item>
+        <item>Sommar</item>
+        <item>Resor</item>
+        <item>Landskap</item>
+        <item>Dröm</item>
+        <item>Lycksalighet</item>
+        <item>Fjärran tystnad</item>
+        <item>realme Jingle</item>
+        <item>Enkelt</item>
+        <item>Retro</item>
+        <item>Hjärtlig</item>
+        <item>Krusning</item>
+        <item>Slagverk</item>
+        <item>Musik</item>
+        <item>Harpa</item>
+        <item>Glädje</item>
+        <item>Ta emot</item>
+        <item>Glittrande</item>
+        <item>Stänk</item>
+        <item>Ljus</item>
+        <item>Genial</item>
+        <item>Partiklar</item>
+        <item>Överton</item>
+        <item>Kul</item>
+        <item>Soluppgång</item>
+        <item>Jämn</item>
+        <item>Hopp</item>
+        <item>Ljudvågor</item>
+        <item>God morgon</item>
+        <item>Glädje</item>
+        <item>Morgonönskningar</item>
+        <item>Fantastiskt hjärta</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>Sön</item>
+        <item>Mån</item>
+        <item>Tis</item>
+        <item>Ons</item>
+        <item>Tors</item>
+        <item>Fre</item>
+        <item>Lör</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>Sön</item>
+        <item>Måndag</item>
+        <item>Tisdag</item>
+        <item>Onsdag</item>
+        <item>Torsdag</item>
+        <item>Fredag</item>
+        <item>Lör</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>ringa, tillåter du?</item>
+        <item>läsa samtalsloggar, tillåter du?</item>
+        <item>läsa kontakter, tillåter du?</item>
+        <item>läsa SMS-loggar, tillåter du?</item>
+        <item>skicka SMS, tillåter du?</item>
+        <item>skicka MMS, tillåter du?</item>
+        <item>slå på/av dataanslutning, tillåter du?</item>
+        <item>slå på/av Wi-Fi-anslutning, tillåter du?</item>
+        <item>slå på/av Bluetooth, tillåter du?</item>
+        <item>använda GPS (appen kan även få din positionsinformation på andra sätt), tillåter du?</item>
+        <item>använda kameran, tillåter du?</item>
+        <item>spela in och spela in samtal, tillåter du?</item>
+        <item>slå på/av NFC, tillåter du?</item>
+        <item>skriva eller radera samtalsloggar, tillåter du?</item>
+        <item>skriva och radera kontakter, tillåter du?</item>
+        <item>skriva och radera SMS-loggar, tillåter du?</item>
+        <item>skriva eller radera MMS-loggar, tillåter du?</item>
+        <item>läsa MMS-loggar, tillåter du?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>fm</item>
+        <item>em</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Fortsätt till rensning</item>
+        <item>Överför till SD-kort</item>
+        <item>Avbryt</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Telefonrensning</item>
+        <item>Avinstallera appar</item>
+        <item>Avbryt</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>Januari</item>
+        <item>Februari</item>
+        <item>Mars</item>
+        <item>April</item>
+        <item>Maj</item>
+        <item>Juni</item>
+        <item>Juli</item>
+        <item>Augusti</item>
+        <item>September</item>
+        <item>Oktober</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>Fäst överst</item>
+        <item>Visa appdetaljer</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>Avnåla</item>
+        <item>Visa appdetaljer</item>
+    </string-array>
+</resources>

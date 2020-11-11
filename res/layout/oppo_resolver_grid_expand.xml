@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:orientation="vertical" android:paddingTop="8.0dip" android:layout_width="fill_parent" android:layout_height="@dimen/color_resolve_expand_height"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <View android:id="@id/resolver_header_transparent" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0" />
+    <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content" android:paddingStart="@dimen/color_resolve_dialog_grid_content_padding_start_and_end" android:paddingEnd="@dimen/color_resolve_dialog_grid_content_padding_start_and_end">
+        <com.color.widget.ColorResolverDialogViewPager android:id="@id/oppo_pager" android:paddingTop="4.0dip" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+        <com.color.widget.ColorDotView android:id="@id/oppo_dots" android:layout_width="wrap_content" android:layout_height="@dimen/resolve_dialog_dot_view_height" android:layout_marginTop="3.0dip" />
+        <LinearLayout android:layout_gravity="center_vertical" android:orientation="horizontal" android:id="@id/color_resolver_checkbox_container" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="3.0dip">
+            <CheckBox android:textSize="@dimen/TF05" android:textColor="?C17" android:layout_gravity="start|center" android:id="@id/oppo_resolver_checkbox_option" android:visibility="gone" android:layout_width="0.0dip" android:layout_height="wrap_content" android:text="@string/oppo_resolver_ask_no_more" android:maxLines="2" android:layout_weight="1.0" android:layout_marginStart="@dimen/M9" />
+            <LinearLayout android:layout_gravity="end|center" android:orientation="horizontal" android:id="@id/oppo_resolver_market_jump" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="fill_parent">
+                <TextView android:textSize="@dimen/TF05" android:textColor="?C05" android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:maxWidth="130.0dip" android:text="@string/oppo_resolver_message" android:maxLines="2" />
+                <ImageView android:gravity="center_vertical" android:layout_width="wrap_content" android:layout_height="fill_parent" android:src="@drawable/oppo_resolver_next" android:layout_marginStart="@dimen/M4" android:layout_marginEnd="@dimen/M9" />
+            </LinearLayout>
+        </LinearLayout>
+    </LinearLayout>
+</LinearLayout>

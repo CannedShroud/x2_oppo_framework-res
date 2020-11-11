@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme Tune</item>
+        <item>Pur</item>
+        <item>Plejgrownd</item>
+        <item>Żfin Improvizzat</item>
+        <item>Ġugarelli</item>
+        <item>Firefly</item>
+        <item>Stilel</item>
+        <item>Serenità</item>
+        <item>Memorji</item>
+        <item>Nostalġiku</item>
+        <item>Lejl</item>
+        <item>Ħdejn Lag</item>
+        <item>Ħarsa Fissa</item>
+        <item>Imċaflas</item>
+        <item>Rilassat</item>
+        <item>Ġrajjiet tat-tfulija</item>
+        <item>Stejjer tal-Iskola</item>
+        <item>Ivvjaġġar</item>
+        <item>Laqgħa</item>
+        <item>Sajf</item>
+        <item>Ivvjaġġar</item>
+        <item>Xenarju</item>
+        <item>Ħolm</item>
+        <item>Feliċità</item>
+        <item>Silenzju Minn Afar</item>
+        <item>realme Jingle</item>
+        <item>Sempliċi</item>
+        <item>Immedjat</item>
+        <item>Eżuberanti</item>
+        <item>Ripple</item>
+        <item>Perkussjoni</item>
+        <item>Mużika</item>
+        <item>Arpa</item>
+        <item>Ferħ</item>
+        <item>Irċievi</item>
+        <item>Ileqq</item>
+        <item>Tixrid</item>
+        <item>Imdawwal</item>
+        <item>Inġenjuż</item>
+        <item>Granuli</item>
+        <item>Overtone</item>
+        <item>Gost</item>
+        <item>Tlugħ ix-xemx</item>
+        <item>Lixx</item>
+        <item>Tama</item>
+        <item>Mewġ tal-Ħoss</item>
+        <item>Bonġu</item>
+        <item>Pjaċir</item>
+        <item>"Tislijiet ta' Filgħodu"</item>
+        <item>Qalb Eċċezzjonali</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>Ipproċedi għat-Tindif</item>
+        <item>Ittrasferixxi fuq l-SD Card</item>
+        <item>Ikkanċella</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>Tindif tal-Mowbajl</item>
+        <item>Iddiżinstalla Applikazzjonijiet</item>
+        <item>Ikkanċella</item>
+    </string-array>
+</resources>

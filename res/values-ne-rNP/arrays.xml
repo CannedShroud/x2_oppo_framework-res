@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="oppo_select_ringtone_new">
+        <item>realme को धुन</item>
+        <item>निर्मल</item>
+        <item>खेल मैदान</item>
+        <item>तात्कालिक नाच</item>
+        <item>खेलौनाहरू</item>
+        <item>जूनकीरी</item>
+        <item>ताराहरू</item>
+        <item>प्रशान्ति</item>
+        <item>स्मृतिहरू</item>
+        <item>नोस्टाल्जिक</item>
+        <item>रात</item>
+        <item>तालको किनारा</item>
+        <item>गेज</item>
+        <item>अस्तव्यस्त</item>
+        <item>आरामदायक</item>
+        <item>बाल कथाहरू</item>
+        <item>विद्यालयका कथाहरू</item>
+        <item>यात्रा</item>
+        <item>जमघट</item>
+        <item>गर्मीयाम</item>
+        <item>यात्रा</item>
+        <item>प्राकृतिक दृश्य</item>
+        <item>सपना</item>
+        <item>मोक्ष</item>
+        <item>साइलेन्स फ्रम अफार</item>
+        <item>realme को जिङ्गल</item>
+        <item>साधारण</item>
+        <item>पल</item>
+        <item>हार्दिक</item>
+        <item>रिपल</item>
+        <item>पर्कसन</item>
+        <item>संगीत</item>
+        <item>हार्प</item>
+        <item>प्रसन्नता</item>
+        <item>प्राप्त गर्नुहोस्</item>
+        <item>झिलिमिली</item>
+        <item>स्प्ल्याश</item>
+        <item>उज्यालो</item>
+        <item>चलाख</item>
+        <item>कणिका</item>
+        <item>ओभरटोन</item>
+        <item>रमाइलो</item>
+        <item>सुर्योदय</item>
+        <item>मधुर</item>
+        <item>आशा</item>
+        <item>ध्वनि तरङ्ग</item>
+        <item>शुभ प्रभात</item>
+        <item>खुशी</item>
+        <item>बिहानी इच्छा</item>
+        <item>अद्भुत हृदय</item>
+    </string-array>
+    <string-array name="color_week_day_long">
+        <item>आइत</item>
+        <item>सोम</item>
+        <item>मंगल</item>
+        <item>बुध</item>
+        <item>बिही</item>
+        <item>शुक्र</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="color_week_day_short">
+        <item>आइत</item>
+        <item>सोमबार</item>
+        <item>मंगलबार</item>
+        <item>बुधबार</item>
+        <item>बिहीबार</item>
+        <item>शुक्रबार</item>
+        <item>शनि</item>
+    </string-array>
+    <string-array name="oppo_permissions_prompt">
+        <item>कल गर्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>कल लगहरू पढ्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>सम्पर्कहरू पढ्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>SMS लगहरू पढ्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>SMS पठाउने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>MMS पठाउने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>डेटा जडान अन/अफ गर्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>Wi-Fi अन/अफ गर्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>ब्लुटूथ अन/अफ गर्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>GPS प्रयोग गर्ने (एपले तपाईंको स्थान जानकारी अन्य तरिकाले पनि प्राप्त गर्न सक्छ), तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>क्यामेरा प्रयोग गर्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>रेकर्ड गर्ने तथा कलहरू रेकर्ड गर्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>NFC अन/अफ गर्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>कल लगहरू लेख्ने वा मेटाउने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>सम्पर्कहरू लेख्ने र मेटाउने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>SMS लगहरू लेख्ने र मेटाउने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>MMS लगहरू लेख्ने वा मेटाउने, तपाईं अनुमति दिनुहुन्छ?</item>
+        <item>MMS लगहरू पढ्ने, तपाईं अनुमति दिनुहुन्छ?</item>
+    </string-array>
+    <string-array name="oppo_time_picker_ampm">
+        <item>AM</item>
+        <item>PM</item>
+    </string-array>
+    <string-array name="oppo_data_not_enough_array">
+        <item>खाली गर्न अगाडि बढ्नुहोस्</item>
+        <item>SD कार्डमा स्थानान्तरण गर्नुहोस्</item>
+        <item>रद्द गर्नुहोस्</item>
+    </string-array>
+    <string-array name="oppo_data_full_array">
+        <item>फोन सफा गर्ने</item>
+        <item>एपहरूको स्थापना हटाउनुहोस्</item>
+        <item>रद्द गर्नुहोस्</item>
+    </string-array>
+    <string-array name="color_solor_mounth">
+        <item>जनवरी</item>
+        <item>फेब्रुअरी</item>
+        <item>मार्च</item>
+        <item>अप्रिल</item>
+        <item>मे</item>
+        <item>जुन</item>
+        <item>जुलाइ</item>
+        <item>अगस्ट</item>
+        <item>सेप्टेम्बर</item>
+        <item>अक्टुबर</item>
+        <item>नोभेम्बर</item>
+        <item>डिसेम्बर</item>
+    </string-array>
+    <string-array name="color_resolver_target_pin">
+        <item>शीर्षस्थानमा पिन गर्नुहोस्</item>
+        <item>एप सम्बन्धी विवरण हेर्नुहोस्</item>
+    </string-array>
+    <string-array name="color_resolver_target_unpin">
+        <item>अनपिन गर्नुहोस्</item>
+        <item>एप सम्बन्धी विवरण हेर्नुहोस्</item>
+    </string-array>
+</resources>
